@@ -7,6 +7,7 @@
     <li>Ivan Bondarenko | <a href="ivb8@pitt.edu">ivb8@pitt.edu</a></li>
 </ul>
 <h3>Data</h3>
+<p>Our data for this project came from the WRPDC (Western Pennsylvania Regional Data Center) and our most used datasets were the "Police Incident Blotter Data" and "Pittsburgh SNAP Census Data, Employment 2010".</p>
 <ul>
     <li>https://data.wprdc.org/dataset/uniform-crime-reporting-data</li>
     <li>https://data.wprdc.org/dataset/pgh/resource/b7156251-6036-4b68-ad2a-95566c84343e</li>
