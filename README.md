@@ -4,7 +4,7 @@
 <h3>Group #22 - "The Capitol"</h3>
 <ul>
     <li>Siddharth Mahesh | <a href="svm22@pitt.edu">svm22@pitt.edu</a></li>
-    <li>Jacob Sprague | <a href="jspr23@pitt.edu">jspr23@pitt.edu</a></li>
+    <li>Jacob Sprague | <a href="jas744@pitt.edu">jas744@pitt.edu</a></li>
     <li>Ivan Bondarenko | <a href="ivb8@pitt.edu">ivb8@pitt.edu</a></li>
 </ul>
 <h3>Data</h3>
